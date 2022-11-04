@@ -2,17 +2,9 @@
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a> -->
 
-![](/asset/bird.jpg)
+![](https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/5xeg/image/Ys8IiH_K2I6bqYATXAMvomg7RKg.png)
 
 
-
-<!-- 
-보유스킬 
-Window WPF C# .NetCore
-Javscript TypeScript Jquery Vue React Vuerify NPM
-java Spring boot gradle
-AWS Azure
--->
 
 
 ## Skill ✍️
