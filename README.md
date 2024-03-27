@@ -29,13 +29,13 @@ I'm a BackEnd developer,<br/>but I also have some proficiency in FrontEnd techno
 <a><img src="https://img.shields.io/badge/ASP core-0078D7?style=flat-square&logo=microsoftedge&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/apache kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Rabbit mq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=hubspot&logoColor=white"/></a>
 
 <a><img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
 
 <a><img src="https://img.shields.io/badge/docker Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=hubspot&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a>
 
@@ -48,19 +48,20 @@ I'm a BackEnd developer,<br/>but I also have some proficiency in FrontEnd techno
 
 ### Front-End
 
-<a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<!-- <a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> -->
+
 <a><img src="https://img.shields.io/badge/TypeScript-262627?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=NPM&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=PNPM&logoColor=white"/></a>
-
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/MUi-007FFF?style=flat-square&logo=mui&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>
 
-<a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-square&logo=Azure DevOps&logoColor=white"/></a>
+<!-- <a><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=NPM&logoColor=white"/></a> -->
+<!-- <a><img src="https://img.shields.io/badge/MUi-007FFF?style=flat-square&logo=mui&logoColor=white"/></a> -->
+<!-- <a><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a> -->
+
+<!-- <a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-square&logo=Azure DevOps&logoColor=white"/></a> -->
 
 <!--
 
