@@ -1,5 +1,11 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
 
+## 🫠 Interview
+
+Hello. I`m hooeee!
+
+I'm a BackEnd developer,<br/>but I also have some proficiency in FrontEnd technologies.<br/>I enjoy coding. <br/>It's rewarding for me to see the public's response to our program.
+
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a> -->
 
@@ -16,7 +22,7 @@
 <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring Data-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=**white**"/></a>
 <a><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 
 <a><img src="https://img.shields.io/badge/.net-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
