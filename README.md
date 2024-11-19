@@ -12,7 +12,7 @@
 
 
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/5xeg/image/Ys8IiH_K2I6bqYATXAMvomg7RKg.png)
+![](https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/5xeg/image/Ys8IiH_K2I6bqYATXAMvomg7RKg.png) -->
 
 ## Skill ✍️
 
@@ -38,7 +38,7 @@
 
 <a><img src="https://img.shields.io/badge/docker Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a> -->
+<a><img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a> 
 
 <!--
 <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
@@ -46,8 +46,6 @@
 <a><img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> -->
 
 <br/>
-
-### Front-End
 
 <!-- <a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> -->
 
