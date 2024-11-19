@@ -8,18 +8,13 @@
 </a>
 
 
-## 🫠 Interview
+<!-- ## 🫠 Interview
 
-- ko pring 개발자 입니다
 
-<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a> -->
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/5xeg/image/Ys8IiH_K2I6bqYATXAMvomg7RKg.png)
 
-<!-- ## Skill ✍️
-
-<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
+## Skill ✍️
 
 
 ### Back-End
