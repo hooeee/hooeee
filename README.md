@@ -1,11 +1,5 @@
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a> -->
 
-## 🫠 Interview
-
-<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a> -->
-
-![](https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/5xeg/image/Ys8IiH_K2I6bqYATXAMvomg7RKg.png)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -13,10 +7,19 @@
 />
 </a>
 
-## Skill ✍️
+
+## 🫠 Interview
+
+- ko pring 개발자 입니다
+
+<!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-61DAFB?style=flat-square&logo=Hack The Box&logoColor=white"/></a> -->
+
+![](https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/5xeg/image/Ys8IiH_K2I6bqYATXAMvomg7RKg.png)
+
+<!-- ## Skill ✍️
 
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a> -->
 
 
 ### Back-End
@@ -40,7 +43,7 @@
 
 <a><img src="https://img.shields.io/badge/docker Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/></a> -->
 
 <!--
 <a><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
