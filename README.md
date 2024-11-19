@@ -11,10 +11,20 @@ I'm a BackEnd developer,<br/>but I also have some proficiency in FrontEnd techno
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/5xeg/image/Ys8IiH_K2I6bqYATXAMvomg7RKg.png)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/hooeee"
+    width="600"
+    height="300"
+  />
+</a>
+
 ## Skill ✍️
 
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a> -->
+
 
 ### Back-End
 
